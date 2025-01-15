@@ -1,3 +1,6 @@
+# Most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atamol&layout=donut-vertical)](https://github.com/Atamol/github-readme-stats)
+
 # Develop Environment
 ### Handmade PC
 - OS: **Windows 11**
@@ -14,7 +17,3 @@ Retails: https://hackmd.io/@Atamol-rc/rJACV5wza
 - RAM: **DDR3 8GB**
 - GPU: **None**
 - Storage: **SSD 64GB**
-
-# Most used languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atamol&layout=donut-vertical)](https://github.com/Atamol/github-readme-stats)
