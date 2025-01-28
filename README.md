@@ -14,7 +14,7 @@ Details: https://hackmd.io/@Atamol-rc/rJACV5wza
 ### Laptop PC
 - OS: **Ubuntu Latest**
 - CPU: **Intel Core 2 Duo U9400**
-- RAM: **DDR3 8GB**
+- RAM: **DDR3 4GB**
 - GPU: **None**
 - Storage: **SSD 64GB**
 
