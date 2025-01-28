@@ -17,3 +17,5 @@ Retails: https://hackmd.io/@Atamol-rc/rJACV5wza
 - RAM: **DDR3 8GB**
 - GPU: **None**
 - Storage: **SSD 64GB**
+
+I want new one...
