@@ -9,7 +9,7 @@
 - GPU: **GeForce RTX 3060Ti 8GB**
 - Storage: **SSD 2TB**
 
-Retails: https://hackmd.io/@Atamol-rc/rJACV5wza
+Details: https://hackmd.io/@Atamol-rc/rJACV5wza
 
 ### Laptop PC
 - OS: **Ubuntu Latest**
