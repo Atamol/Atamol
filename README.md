@@ -4,7 +4,7 @@
 # Develop Environment
 ### Handmade PC
 - OS: **Windows 11**
-- CPU: **AMD Ryzen 7 5700X**
+- CPU: **AMD Ryzen7 5700X**
 - RAM: **DDR4 32GB**
 - GPU: **GeForce RTX 3060Ti 8GB**
 - Storage: **SSD 2TB**
