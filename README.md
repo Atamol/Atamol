@@ -9,4 +9,4 @@
 - GPU: **NVIDIA GeForce RTX 3060Ti 8GB**
 - Storage: **SSD 2TB**
 
-Details: https://hackmd.io/@Atamol-rc/rJACV5wza
+Spec Details: https://hackmd.io/@Atamol-rc/rJACV5wza
