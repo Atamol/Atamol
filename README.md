@@ -29,3 +29,4 @@ Spec Details: https://hackmd.io/@Atamol-rc/rJACV5wza
 - Ruby
 - Python
 - Rust
+- Go
