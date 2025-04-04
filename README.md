@@ -2,14 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atamol&layout=donut-vertical)](https://github.com/Atamol/github-readme-stats)
 
-# Coding Skills
-
-- HTML / CSS
-- Javascript
-- Ruby
-- Python
-- Rust
-
 # Develop Environment
 
 ### Handmade PC
@@ -27,3 +19,11 @@ Spec Details: https://hackmd.io/@Atamol-rc/rJACV5wza
 - RAM: **DDR4 8GB**
 - GPU: **None**
 - Storage: **SSD 256GB**
+
+# Coding Skills
+
+- HTML / CSS
+- Javascript
+- Ruby
+- Python
+- Rust
