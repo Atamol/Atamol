@@ -15,9 +15,9 @@ Spec Details: https://hackmd.io/@Atamol-rc/rJACV5wza
 
 ### Laptop PC
 - OS: **Ubuntu**
-- CPU: **Intel**
+- CPU: **Intel Core i5 ---**
 - RAM: **DDR4 8GB**
-- GPU: **None**
+- GPU: **Intel Graphics ---**
 - Storage: **SSD 256GB**
 
 # Coding Skills
