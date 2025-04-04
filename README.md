@@ -6,7 +6,7 @@
 - OS: **Windows 11 Home**
 - CPU: **AMD Ryzen7 5700X**
 - RAM: **DDR4 32GB**
-- GPU: **NVIDIA GeForce RTX 3060Ti 8GB**
+- GPU: **NVIDIA GeForce RTX 3060 Ti 8GB**
 - Storage: **SSD 2TB**
 
 Spec Details: https://hackmd.io/@Atamol-rc/rJACV5wza
