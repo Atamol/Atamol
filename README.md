@@ -24,6 +24,8 @@ Spec Details: https://hackmd.io/@Atamol-rc/rJACV5wza
 
 - HTML / CSS
 - Javascript
+- C#
+- C++
 - Ruby
 - Python
 - Rust
