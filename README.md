@@ -1,7 +1,17 @@
 # Most Used Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atamol&layout=donut-vertical)](https://github.com/Atamol/github-readme-stats)
 
+# Coding Skills
+
+- HTML / CSS
+- Javascript
+- Ruby
+- Python
+- Rust
+
 # Develop Environment
+
 ### Handmade PC
 - OS: **Windows 11 Home**
 - CPU: **AMD Ryzen7 5700X**
@@ -10,3 +20,10 @@
 - Storage: **SSD 2TB**
 
 Spec Details: https://hackmd.io/@Atamol-rc/rJACV5wza
+
+### Laptop PC
+- OS: **Ubuntu**
+- CPU: **Intel**
+- RAM: **DDR4 8GB**
+- GPU: **None**
+- Storage: **SSD 256GB**
