@@ -20,7 +20,7 @@ Details: https://hackmd.io/@Atamol-rc/rJACV5wza
 - GPU: **AMD Radeon Graphics**
 - Storage: **SSD 1TB**
 
-Details:
+Details: https://hackmd.io/@Atamol-rc/HklNsQEA1l
 
 # Coding Skills
 
