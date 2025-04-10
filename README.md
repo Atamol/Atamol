@@ -14,7 +14,7 @@
 Details: https://hackmd.io/@Atamol-rc/rJACV5wza
 
 ### Laptop PC
-- OS: **Ubuntu Desktop**
+- OS: **Ubuntu Desktop LTS / Windows 11 Home (Dual boot)**
 - CPU: **AMD Ryzen™ 7 8840HS**
 - RAM: **DDR5 16GB**
 - GPU: **AMD Radeon Graphics**
