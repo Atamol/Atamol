@@ -9,7 +9,7 @@
 | OS | Windows 11 Home | Ubuntu Desktop LTS / Windows 11 Home（Dual Boot）|
 | CPU | AMD Ryzen™ 7 5700X | AMD Ryzen™ 7 8840HS |
 | RAM | DDR4 32GB | DDR5 16GB |
-| GPU | NVIDIA GeForce RTX 3060 Ti 8GB | AMD Radeon Graphics |
+| GPU | NVIDIA GeForce RTX™ 3060 Ti 8GB | AMD Radeon™ 780M Graphics |
 | Storage | SSD 2TB | SSD 1TB |
 
 # Coding Skills
