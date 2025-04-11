@@ -5,20 +5,21 @@
 # Develop Environment
 
 ### Handmade PC
-- OS: **Windows 11 Home**
-- CPU: **AMD Ryzen™ 7 5700X**
-- RAM: **DDR4 32GB**
-- GPU: **NVIDIA GeForce RTX 3060 Ti 8GB**
-- Storage: **SSD 2TB**
+- [OS]: **Windows 11 Home**
+- [CPU]: **AMD Ryzen™ 7 5700X**
+- [RAM]: **DDR4 32GB**
+- [GPU]: **NVIDIA GeForce RTX 3060 Ti 8GB**
+- [Storage]: **SSD 2TB**
 
 Details: https://hackmd.io/@Atamol-rc/rJACV5wza
 
 ### Laptop PC
-- OS: **Ubuntu Desktop LTS / Windows 11 Home (Dual boot)**
-- CPU: **AMD Ryzen™ 7 8840HS**
-- RAM: **DDR5 16GB**
-- GPU: **AMD Radeon Graphics**
-- Storage: **SSD 1TB**
+- [OS]: Ubuntu Desktop LTS / Windows 11 Home (Dual boot)
+- [Model] [Dell Inc. Inspiron 14 7445 2-in-1](https://www.dell.com/ja-jp/shop/dell%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/inspiron-14-2-in-1-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/spd/inspiron-14-7445-2-in-1-laptop)
+- [CPU]: AMD Ryzen™ 7 8840HS
+- [RAM]: DDR5 16GB
+- [GPU]: AMD Radeon Graphics
+- [Storage]: SSD 1TB
 
 Details: https://hackmd.io/@Atamol-rc/HklNsQEA1l
 
