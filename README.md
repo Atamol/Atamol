@@ -16,7 +16,7 @@
 
 - HTML / CSS
 - PHP
-- Javascript
+- JavaScript
 - C#
 - C++
 - Ruby
