@@ -15,6 +15,7 @@
 # Coding Skills
 
 - HTML / CSS
+- PHP
 - Javascript
 - C#
 - C++
