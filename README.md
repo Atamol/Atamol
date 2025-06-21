@@ -15,10 +15,9 @@
 # Coding Skills
 
 - HTML / CSS
+- C# / C++
 - PHP
 - JavaScript
-- C#
-- C++
 - Ruby
 - Python
 - Rust
