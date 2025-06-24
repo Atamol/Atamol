@@ -14,11 +14,10 @@
 
 # Coding Skills
 
-- HTML / CSS
 - C# / C++
 - PHP
-- JavaScript
-- Ruby
+- JavaScript / TypeScript
 - Python
+- Ruby
 - Rust
 - Go
