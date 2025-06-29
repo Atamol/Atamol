@@ -10,7 +10,7 @@
 | CPU | AMD Ryzen™ 7 5700X | AMD Ryzen™ 7 8840HS | AMD Ryzen™ 9 7950X | AMD Ryzen™ 5 5600G | Intel Core i5-10400F |
 | RAM | DDR4 32GB | DDR5 16GB | DDR5 256GB | DDR4 32GB | DDR4 16GB |
 | GPU | NVIDIA GeForce RTX™ 3060 Ti 8GB | AMD Radeon™ 780M Graphics | - | NVIDIA RTX 4070 Ti SUPER | NVIDIA GTX 1080 Ti |
-| Storage | SSD 2TB | SSD 1TB | HDD / SSD nTB | SSD 1+2TB | SSD 256GB |
+| Storage | SSD 2TB | SSD 1TB | SSD 2TB | SSD 1+2TB | SSD 256GB |
 
 # Coding Skills
 
