@@ -14,18 +14,34 @@
 
 # Skills
 
+## Language
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="25"/> <img src="	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="20"/> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" width="30"/> <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="30"/>
+
+## Web
 
 <img src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="25"/> <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="25"/>
 
+## Automation / Web Scraping
+
 <img src="https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png" width="25"/> <img src="https://www.crummy.com/software/BeautifulSoup/10.1.jpg" width="25"/> <img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" width="25"/> <img src="https://playwright.dev/img/playwright-logo.svg" width="25"/> <img src="https://avatars.githubusercontent.com/u/6906516?s=200&v=4" width="25"/>
+
+## Database
 
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="25"/> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="25"/> <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="25"/> <img src="https://icon.icepanel.io/AWS/svg/Database/DynamoDB.svg" width="25"/>
 
- <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="25"/> <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width="25"/> <img src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" width="25"/> <img src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" width="25"/> <img src="https://avatars.githubusercontent.com/u/111992358?s=200&v=4" width="25"/> <img src="https://rust-ndarray.github.io/images/rust-ndarray_logo.svg" width="25"/> <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" width="25"/> <img src="https://images.seeklogo.com/logo-png/55/1/claude-logo-png_seeklogo-554534.png" width="25"/>
+## Calculation / Machine Learning / AI
+
+<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="25"/> <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width="25"/> <img src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" width="25"/> <img src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" width="25"/> <img src="https://avatars.githubusercontent.com/u/111992358?s=200&v=4" width="25"/> <img src="https://rust-ndarray.github.io/images/rust-ndarray_logo.svg" width="25"/> <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" width="25"/> <img src="https://images.seeklogo.com/logo-png/55/1/claude-logo-png_seeklogo-554534.png" width="25"/>
+
+## Cloud / Infrastructure
 
 <img src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" width="20"/> <img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" width="25"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="25"/> <img src="https://icon.icepanel.io/AWS/svg/Front-End-Web-Mobile/Amplify.svg" width="25"/> <img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" width="25"/> <img src="https://icon.icepanel.io/AWS/svg/Business-Applications/Connect.svg" width="25"/> <img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" width="25"/> <img src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4" width="25"/> <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="25"/> <img src="https://raw.githubusercontent.com/microsoft/WSL/master/Images/Square44x44Logo.targetsize-256.png" width="25"/> <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" width="25"/> <img src="https://images.icon-icons.com/2699/PNG/512/nginx_logo_icon_169915.png" width="25"/> <img src="https://www.apache.org/foundation/press/kit/feather.svg" width="15"/> <img src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/CHOl0sUhrumCxOXfRotGt/081f81d52274080b2d026fdf163e3009/cloudflare-icon-color_3x.png" width="25"/> <img src="https://img.icons8.com/?size=256&id=GxnnEGl75yew&format=png" width="25"/>
 
+## Game Engine
+
 <img src="https://cdn.sanity.io/images/fuvbjjlp/production/2495ab2daae11fd3ed5d6b84477d513869f9a1b4-89x100.png" width="25"/> <img src="https://avatars.githubusercontent.com/u/60047606?s=200&v=4" width="25"/>
+
+## Hardware
 
 <img src="https://media.printables.com/media/prints/754259/images/5885287_be47d97c-1aee-45e2-9f54-09a06093081a_b35039bb-5086-43b5-8b8d-4dde65caf490/thumbs/inside/1280x960/webp/bambulablogo.webp" width="25"/> <img src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered-150x150.png" width="25"/> <img src="https://images.icon-icons.com/2699/PNG/512/arduino_logo_icon_170518.png" width="25"/> <img src="https://cdn.iconscout.com/icon/free/png-512/free-nvidia-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-5-pack-logos-icons-3030185.png?f=webp&w=256" width="25"/>
