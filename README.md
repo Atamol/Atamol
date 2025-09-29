@@ -13,7 +13,7 @@
 | OS | Windows 11 Home | Ubuntu Desktop LTS / Windows 11 Home | Proxmox VE | Windows 11 Home |
 | CPU | AMD Ryzen™ 7 5700X | AMD Ryzen™ 7 8840HS | AMD Ryzen™ Threadripper PRO 5975WX | AMD Ryzen™ 7 5700X |
 | RAM | DDR4 32GB | DDR5 16GB | DDR4 256GB | DDR4 32GB |
-| GPU | NVIDIA GeForce RTX™ 3060 Ti 8GB | AMD Radeon™ 780M Graphics | - | NVIDIA RTX 4070 Ti SUPER |
+| GPU | NVIDIA GeForce RTX™ 3060 Ti 8GB | AMD Radeon™ 780M Graphics | NVIDIA GTX 1650 | NVIDIA RTX 4070 Ti SUPER |
 | Storage | SSD 2TB | SSD 1TB | 16TB | SSD 2TB |
 
 # Skills
