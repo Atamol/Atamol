@@ -16,6 +16,8 @@
 | GPU | NVIDIA GeForce RTX™ 3060 Ti 8GB | AMD Radeon™ 780M Graphics |
 | Storage | SSD 2TB | SSD 1TB |
 
+…and some server machines.
+
 # Skills
 
 ## Language
