@@ -1,11 +1,11 @@
 <div align="center">
-
-## Most Used Lang
-
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atamol&layout=donut-vertical)](https://github.com/Atamol/github-readme-stats)
 
-## Develop Environment
+</div>
 
+<div align="center">
+  
 | Type | [DIY Desktop PC](https://hackmd.io/@Atamol/rJACV5wza) | [DIY NAS](https://hackmd.io/@Atamol/SkRJZ8Z11g) | V-Infra |
 |:---:|---|---|---|
 | OS | Windows 11 Home | Ubuntu Desktop LTS | Proxmox VE |
